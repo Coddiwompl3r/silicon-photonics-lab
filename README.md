@@ -23,6 +23,11 @@ I am using **Python**, **gdsfactory** (an open-source Electronic Photonic Design
 ### 4. Commercial Scaling
 * **`wdm_awg.py`**: An Arrayed Waveguide Grating (AWG). The foundational structure for Wavelength Division Multiplexing (WDM), designed to multiplex/demultiplex multiple wavelength channels to massively scale data throughput.
 
+### 5. FDTD Physics Verification
+* **`fdtd_coupler.py`**: A Finite-Difference Time-Domain (FDTD) simulation script utilizing the MIT Meep engine to extract S-parameters from the directional coupler. 
+![S-Parameter Extraction](sparameter_simulation.png)
+*Demonstrates physical verification of evanescent field coupling across the waveguide gap.*
+
 ## About the Author
 I am an incoming Optics and Photonics Engineering student at the University of Central Florida (Expected Fall 2027) based in Fort Myers. My background consists of independent hardware operations, specifically managing self-hosted ASIC networks and localized computing nodes. I am actively teaching myself layout automation and photonics physics to prepare for undergraduate research opportunities in optical compute and heterogeneous integration.
 

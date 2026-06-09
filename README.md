@@ -20,6 +20,6 @@ I am using **Python**, **gdsfactory** (an open-source Electronic Photonic Design
 * **`wdm_awg.py`**: An Arrayed Waveguide Grating (AWG). The foundational structure for Wavelength Division Multiplexing (WDM), designed to multiplex/demultiplex multiple wavelength channels to massively scale data throughput.
 
 ## About the Author
-I am an incoming Aerospace Engineering student at the University of Central Florida (Expected Fall 2027) based in Fort Myers. My background bridges clinical healthcare and independent hardware operations (managing self-hosted blockchain nodes and ASIC networks). I am actively teaching myself layout automation and photonics physics to prepare for undergraduate research opportunities in optical compute and heterogeneous integration.
+I am an incoming Optics and Photonics Engineering student at the University of Central Florida (Expected Fall 2027) based in Fort Myers. I have background in independent hardware operations (managing self-hosted blockchain nodes and ASIC networks). I am actively teaching myself layout automation and photonics physics to prepare for undergraduate research opportunities in optical compute and heterogeneous integration.
 
 **Tech Stack:** Python, GDSFactory, KLayout, Git.

@@ -11,6 +11,6 @@ I am using **Python**, **gdsfactory** (an open-source Electronic Photonic Design
 * **`mzi_logic_gate.py`**: A Mach-Zehnder Interferometer (MZI). The core structure for optical logic and modulation, utilizing parallel waveguides to create constructive and destructive wave interference.
 
 ## About the Author
-I am an incoming Aerospace Engineering student at the University of Central Florida (Expected Fall 2027) with a background in independent hardware operations (managing self-hosted blockchain nodes and ASIC networks) and healthcare. I am actively teaching myself layout automation and photonics physics to prepare for undergraduate research opportunities. 
+I am an incoming Optics and Photonics Engineering student at the University of Central Florida (Expected Fall 2027) with a background in independent hardware operations (managing self-hosted blockchain nodes and ASIC networks). I am actively teaching myself layout automation and photonics physics to prepare for undergraduate research opportunities. 
 
 **Tech Stack:** Python, GDSFactory, KLayout, Git.

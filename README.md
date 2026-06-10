@@ -27,6 +27,8 @@ I am using **Python**, **gdsfactory** (an open-source Electronic Photonic Design
 * **`fdtd_coupler.py`**: A Finite-Difference Time-Domain (FDTD) simulation script utilizing the MIT Meep engine to extract S-parameters from the directional coupler. 
 ![S-Parameter Extraction](sparameter_simulation.png)
 *Demonstrates physical verification of evanescent field coupling across the waveguide gap.*
+* **`parameter_sweep.py`**: An automated optimization loop that iteratively simulates multiple coupler geometries. Successfully swept coupling lengths to identify the exact 17.7µm physical requirement for a perfect -3.01 dB (50/50) power split at 1550nm.
+![Parameter Sweep Results](coupler_sweep_results.png)
 
 ## About the Author
 I am an incoming Optics and Photonics Engineering student at the University of Central Florida (Expected Fall 2027) based in Fort Myers. My background consists of independent hardware operations, specifically managing self-hosted ASIC networks and localized computing nodes. I am actively teaching myself layout automation and photonics physics to prepare for undergraduate research opportunities in optical compute and heterogeneous integration.
